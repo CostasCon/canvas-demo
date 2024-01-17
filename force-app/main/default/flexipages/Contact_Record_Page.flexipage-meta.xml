@@ -102,7 +102,7 @@
                     <name>title</name>
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
-                <identifier>flexipagetabId</identifier>
+                <identifier>flexipagetabId2</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
@@ -116,7 +116,7 @@
                     <name>title</name>
                     <value>Standard.Tab.news</value>
                 </componentInstanceProperties>
-                <identifier>flexipagetabId</identifier>
+                <identifier>flexipagetabId3</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
@@ -164,7 +164,7 @@
                     <name>title</name>
                     <value>Standard.Tab.activity</value>
                 </componentInstanceProperties>
-                <identifier>flexipagetabId</identifier>
+                <identifier>flexipagetabId4</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
@@ -178,7 +178,7 @@
                     <name>title</name>
                     <value>Standard.Tab.collaborate</value>
                 </componentInstanceProperties>
-                <identifier>flexipagetabId</identifier>
+                <identifier>flexipagetabId5<//identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
