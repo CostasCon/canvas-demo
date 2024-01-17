@@ -178,7 +178,7 @@
                     <name>title</name>
                     <value>Standard.Tab.collaborate</value>
                 </componentInstanceProperties>
-                <identifier>flexipagetabId5<//identifier>
+                <identifier>flexipagetabId5</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
