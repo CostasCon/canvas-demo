@@ -64,6 +64,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>forcedetailPanelId</identifier>
                 <componentName>force:detailPanel</componentName>
             </componentInstance>
         </itemInstances>
