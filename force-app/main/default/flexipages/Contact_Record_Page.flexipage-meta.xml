@@ -142,6 +142,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>runtime_sales_activitiesactivityPanelId</identifier>
                 <componentName>runtime_sales_activities:activityPanel</componentName>
             </componentInstance>
         </itemInstances>
