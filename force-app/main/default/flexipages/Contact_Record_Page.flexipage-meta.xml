@@ -126,10 +126,8 @@
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
-                 <componentInstance>
                     <identifier>flexipage:tabsetId</identifier>
                     <componentName>flexipage:tabset</componentName>
-                 </componentInstance>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
@@ -194,10 +192,8 @@
                     <name>tabs</name>
                     <value>sidebartabs</value>
                 </componentInstanceProperties>
-                 <componentInstance>
                     <identifier>flexipage:tabsetId</identifier>
                     <componentName>flexipage:tabset</componentName>
-                 </componentInstance>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
