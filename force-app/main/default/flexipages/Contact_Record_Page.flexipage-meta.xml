@@ -88,6 +88,7 @@
                     <name>title</name>
                     <value>Standard.Tab.relatedLists</value>
                 </componentInstanceProperties>
+                <identifier>flexipagetabId</identifier>
                 <componentName>flexipage:tab</componentName>
             </componentInstance>
         </itemInstances>
