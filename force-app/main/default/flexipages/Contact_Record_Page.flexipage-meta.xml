@@ -181,6 +181,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>contactQRCodeId</identifier>
                 <componentName>contactQRCode</componentName>
             </componentInstance>
         </itemInstances>
