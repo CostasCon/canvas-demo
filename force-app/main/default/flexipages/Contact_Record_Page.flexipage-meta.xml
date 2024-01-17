@@ -199,7 +199,7 @@
                     <name>tabs</name>
                     <value>sidebartabs</value>
                 </componentInstanceProperties>
-                    <identifier>flexipagetabsetId</identifier>
+                    <identifier>flexipagetabsetId2</identifier>
                     <componentName>flexipage:tabset</componentName>
             </componentInstance>
         </itemInstances>
